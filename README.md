@@ -1,5 +1,4 @@
 # SaveDocsAsTIFF
----
 This script exports all open Illustrator documents as TIFF files in a user-specified folder.  
 
 ## Usage instructions
